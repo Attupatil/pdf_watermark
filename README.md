@@ -2,7 +2,7 @@
 #### This python program mergers  different pdf this is specially designed for applying watermark and combining different pdf into single watermarked pdf
      
 
-#  dash your terminal and open the 'watermark' using  
+#  dash your terminal and open the `watermark` using  
 
     python3 wtrmrk.py 
 
